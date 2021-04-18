@@ -1,5 +1,6 @@
 package com.example.tateti;
 
+import com.example.roommanager.RoomManager;
 import com.example.tateti.model.Game;
 import com.example.tateti.model.Human;
 

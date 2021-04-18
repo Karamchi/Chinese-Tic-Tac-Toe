@@ -13,6 +13,7 @@ import androidx.annotation.RawRes;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.roommanager.RoomManager;
 import com.example.tateti.model.AI;
 import com.example.tateti.model.Game;
 import com.example.tateti.model.Human;
